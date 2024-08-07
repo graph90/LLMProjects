@@ -1,4 +1,4 @@
-# python3 multiLLM.py "tell me about space [Prompt]"
+# python3 multiLLM.py "tell me about space"
 # Install:
 # ollama run gemma2
 # ollama run phi3
